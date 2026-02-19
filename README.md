@@ -94,22 +94,6 @@ Zenodo. https://doi.org/10.5281/zenodo.18705234
 
 ---
 
-### BibTeX
-
-```bibtex
-@misc{marutani2026sanctuaries,
-  author       = {Marutani, Yuji},
-  title        = {The Anatomy of Sanctuaries: The Dual Structure of the Modern State OS and the Mediterranean Deep Kernel},
-  year         = {2026},
-  version      = {1.1},
-  publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.18705234},
-  url          = {https://doi.org/10.5281/zenodo.18705234}
-}
-
-
----
-
 ## 🔑 Keywords
 
 - sovereignty  
