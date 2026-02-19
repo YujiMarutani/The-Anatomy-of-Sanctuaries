@@ -1,12 +1,9 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18705234.svg)](https://doi.org/10.5281/zenodo.18705234)
-
-**Marutani, Y. (2026).**  
-*The Anatomy of Sanctuaries: The Dual Structure of the Modern State OS and the Mediterranean Deep Kernel* (Version 1.1). Zenodo.
 
 # The Anatomy of Sanctuaries  
 ### The Dual Structure of the Modern State OS and the Mediterranean Deep Kernel  
 **— A 500-Year Architecture of Power Structurally Revealed by the Epstein Affair —**  
 **Version 1.1 — Zedono Theoretical Framework**
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18705234.svg)](https://doi.org/10.5281/zenodo.18705234)
 
 ---
 
