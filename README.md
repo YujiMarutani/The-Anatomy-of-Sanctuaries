@@ -86,16 +86,13 @@ This diagram is central to the theoretical model and may be reused under the pro
 
 ---
 
-## 🔍 Citation
+## Citation
 
-If you cite this work:
+Marutani, Y. (2026). *The Anatomy of Sanctuaries:  
+The Dual Structure of the Modern State OS and the Mediterranean Deep Kernel* (1.1).  
+Zenodo. https://doi.org/10.5281/zenodo.18705234
 
-Marutani, Yuji. The Anatomy of Sanctuaries:
-The Dual Structure of the Modern State OS and the Mediterranean Deep Kernel.  
-Version 1.1, Zedono Theoretical Framework, 2026.
-DOI: [to be assigned by Zenodo]
 
-BibTeX entry will be generated automatically by Zenodo.
 
 ---
 
