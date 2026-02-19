@@ -63,9 +63,9 @@ Instead:
 
 ## 📄 Contents
 
-- `main.pdf` — Full working paper (Version 1.1)  
-- `main.tex` — LaTeX source  
-- `figures/` — TikZ diagram assets (if applicable)  
+- `mediterranean-deep-kernel-working-paper-v1.pdf` — Full working paper (Version 1.1)  
+- `mediterranean-deep-kernel-working-paper-v1.tex` — LaTeX source  
+- `figures/` — Fig_Anatomy_of_Sanctuaries_v1.png
 - `LICENSE` — Recommended: CC BY 4.0  
 - `README.md` — This document  
 
